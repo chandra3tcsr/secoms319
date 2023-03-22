@@ -1,0 +1,23 @@
+{
+    "products": [
+      {
+        "name": "Flannel",
+        "description": "New and attractive Flannels",
+        "price": 500,
+        "image": "./image/fla.avif"
+      },
+      {
+        "name": " Winter Coat",
+        "description": "Explore the exotic collection of coats",
+        "price": 20.99,
+        "image": "./image/trend.avif"
+      },
+      {
+        "name": "Flip Flops",
+        "description": "Cool things needs to be cool",
+        "price": 30.99,
+        "image": "./image/flip.avif"
+      }
+    ]
+  }
+  
